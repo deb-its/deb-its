@@ -1,16 +1,25 @@
-### Hi there 👋
+# deb-its: Logically Thinking.
 
-<!--
-**deb-its/deb-its** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! 👋 I'm deb-its, aka. [Amzyrahc.](https://github.com/amzyrahc)
 
-Here are some ideas to get you started:
+## Why do you have a new account?
+Well, deb-its is for more serious softwares, while amzyrahc is for less serious softwares.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+
+- Programming Languages: Python, Lua, HTML, CSS, Javascript, JSON
+- Other Skills: Badminton 🏸, Gamer 🎮
+
+## 📫 How to reach me
+
+- Email: **debits@skiff.com**
+- Discord: **debit_.**
+
+## 📈 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=deb-its&show_icons=true&theme=radical)
+
+## 🏆 GitHub Trophies
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=deb-its)](https://github.com/ryo-ma/github-profile-trophy)
+
