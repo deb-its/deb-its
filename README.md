@@ -10,6 +10,12 @@ Well, deb-its is for more serious softwares, while amzyrahc is for less serious 
 - Programming Languages: Python, Lua, HTML, CSS, Javascript, JSON
 - Other Skills: Badminton 🏸, Gamer 🎮
 
+## 👩🏻‍💻 Check my latest projects!
+
+- [Roblox Cache Cleaner (RCacheCleaner)](https://github.com/RCacheCleaner/RCacheCleaner)
+  - A simple Roblox Cache CLeaner created in Python.
+
+
 ## 📫 How to reach me
 
 - Email: **debits@skiff.com**
