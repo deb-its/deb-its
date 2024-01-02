@@ -12,9 +12,11 @@ Well, deb-its is for more serious softwares, while amzyrahc is for less serious 
 
 ## 👩🏻‍💻 Check my latest projects!
 
-- [Roblox Cache Cleaner (RCacheCleaner)](https://github.com/deb-its/RCacheCleaner)
+- [Lilcord ⚡](https://github.com/deb-its/Lilcord)
+  - A **lightweight** version of discord
+- [Roblox Cache Cleaner (RCacheCleaner) 🧹](https://github.com/deb-its/RCacheCleaner)
   - A simple Roblox Cache Cleaner created in Python.
-- [Discord Cache Cleaner (DCacheCleaner)](https://github.com/deb-its/DCacheCleaner)
+- [Discord Cache Cleaner (DCacheCleaner) 🧹](https://github.com/deb-its/DCacheCleaner)
   - A simple Discord Cache Cleaner created in Python.
 
 
