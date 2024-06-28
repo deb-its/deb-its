@@ -1,13 +1,13 @@
 # deb-its: Logically Thinking.
 
-Hello! 👋 I'm deb-its, aka. [Amzyrahc.](https://github.com/amzyrahc)
+Hello! 👋 I'm deb-its, aka. [Amzyrahc.](https://github.com/amzyrahc), Nelv or whatever alias I had out there.
 
 ## Why do you have a new account?
 Well, deb-its is for more serious softwares, while amzyrahc is for less serious softwares.
 
 ## 🔧 Skills
 
-- Programming Languages: Python, Lua, HTML, CSS, Javascript, JSON
+- Programming Languages: Python, Lua, HTML, CSS & Javascript
 - Other Skills: Badminton 🏸, Gamer 🎮
 
 ## 👩🏻‍💻 Check my latest projects!
